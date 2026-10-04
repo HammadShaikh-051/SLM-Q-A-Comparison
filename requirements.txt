@@ -1,0 +1,24 @@
+# Machine Learning & Deep Learning
+torch
+transformers
+datasets
+peft
+trl
+
+# Training Optimization (Quantization & Distributed)
+accelerate
+bitsandbytes
+
+# Evaluation & Metrics
+evaluate
+scikit-learn
+rouge-score
+nltk
+
+# Data Processing
+pandas
+numpy
+
+# Jupyter/Colab
+notebook
+ipywidgets
